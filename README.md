@@ -12,4 +12,4 @@
   
 You must have a GitHub account. For more information, see "Creating an account on GitHub."
 
-You don't need to know how to code, use the command line, or install Git (the version control software that GitHub is built on).
+use the command line, or install Git (the version control software that GitHub is built on).
