@@ -8,8 +8,5 @@
   Start and manage a new branch.
   Make changes to a file and push them to GitHub as commits.
   Open and merge a pull request.
-  Prerequisites
-  
-First you must have a GitHub account, For more information see "Creating an account on GitHub."
+  Prerequisites.
 
-Then use the command line, or install Git (the version control software that GitHub is built on).
